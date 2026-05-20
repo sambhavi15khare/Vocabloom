@@ -1,0 +1,14 @@
+requirements:
+
+to run vocabloom, we use multiple libraries
+
+1. wonderwords (for random word generation)
+2. colorama (for adding color to the text)
+3. english-words (for making sure the words added are only in English)
+4. nltk (for giving the definition of the words which actually enhances the learning experience)
+
+
+to download the libraries :
+
+use command prompt
+pip install *library name*
